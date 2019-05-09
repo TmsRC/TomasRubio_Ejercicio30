@@ -8,4 +8,4 @@ solucion.x: solucion.cpp
 	c++ solucion.cpp -o solucion.x
 
 clean:
-	rm -rf *.x *.dat
+	rm -rf *.x *.dat *.png
